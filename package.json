@@ -1,0 +1,7 @@
+{
+  "name": "r_1006",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.5.3"
+  }
+}
